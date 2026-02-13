@@ -5,7 +5,6 @@ It supports:
 - Multiple classes
 - Multiple students per class
 - Multiple subjects per student
-- Multiple grades per subject
 - Weighted averages
 - Automatic statistical analysis
 - Folder and file generation
