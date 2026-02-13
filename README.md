@@ -15,7 +15,6 @@ The project demonstrates advanced use of dynamic memory allocation, nested struc
 - Multi-class management
 - Multi-student management
 - Multi-subject system
-- Multiple grades per subject
 - Weighted average calculation
 - Subject validation system
 - PASS / FAIL decision (≥ 12)
