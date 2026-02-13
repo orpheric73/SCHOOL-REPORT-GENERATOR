@@ -59,10 +59,10 @@ This project demonstrates:
 - Error handling
 - Statistical computation
 - Suitable for:
-- University-level C programming
-- Data structures practice
-- File system manipulation training
-- Academic evaluation system simulation
+  - University-level C programming
+  - Data structures practice
+  - File system manipulation training
+  - Academic evaluation system simulation
 # 🚀 Future Improvements
 - Refactor repeated memory cleanup into functions
 - Improve error-handling centralization
