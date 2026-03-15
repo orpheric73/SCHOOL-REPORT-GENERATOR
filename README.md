@@ -67,7 +67,6 @@ This project demonstrates:
 - Refactor repeated memory cleanup into functions
 - Improve error-handling centralization
 - Modularize into multiple source files
-- Add input validation abstraction
 - Add CSV or PDF export support
 # 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
